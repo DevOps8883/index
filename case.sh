@@ -16,7 +16,7 @@ read vehicle
 	
  elif [ $vehicle = motorbike ]
  then
-	echo "The rental fee for $vehicle is £200 per day"
+	echo "The rental fee for $vehicle is £3200 per day"
  elif [ $vehicle = bicycle ]
  then
 	echo "The rental fee for $vehicle is £50 per day"
