@@ -5,10 +5,10 @@ echo "Type your choice: \c"
 read vehicle
  if [ $vehicle = car ]
  then 
-	echo "The rental fee for $vehicle is £150 per day"
+	echo "The rental fee for $vehicle is £1150 per day"
  elif [ $vehicle = bus ]
  then
-	echo "The rental fee for $vehicle is £250 per day"
+	echo "The rental fee for $vehicle is £1250 per day"
 	
  elif [ $vehicle = truck ]
  then
