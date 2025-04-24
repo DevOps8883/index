@@ -19,7 +19,7 @@ read vehicle
 	echo "The rental fee for $vehicle is £3200 per day"
  elif [ $vehicle = bicycle ]
  then
-	echo "The rental fee for $vehicle is £150 per day"
+	echo "The rental fee for a new  $vehicle is £650 per day"
  else
 	echo "Option not available"
  fi	
